@@ -1,0 +1,16 @@
+{
+	"realName": {
+		"givenName": "Thomas",
+		"familyName": "Tränkler"
+	},
+	"githubAccountName": "ttraenkler",
+	"company": "Loopdive GmbH",
+	"when": {
+		"friday": true,
+		"saturday": true
+	},
+	"iCanTakeNotesDuringSessions": false,
+	"tags": ["TypeScript", "WebAssembly", "JavaScript", "Web Components", "AI"],
+	"whatIsMyConnectionToJavascript": "I build JavaScript and TypeScript tooling, web components and WebAssembly-related projects at Loopdive.",
+	"whatCanIContribute": "I can share experiences from building JS/TS-to-WebAssembly tooling and web component based applications."
+}
