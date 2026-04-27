@@ -1,7 +1,6 @@
 import alm from './logos/alm-engineering.svg';
 import tng from './logos/tng.svg';
 import stackForge from './logos/stack-forge.svg';
-import seorank from './logos/seorank.svg';
 import inovex from './logos/inovex-logo.png';
 import scalable from './logos/scalable.svg';
 import composeUs from './logos/compose-us-white.svg';
@@ -22,12 +21,6 @@ export const sponsors: Sponsor[] = [
 		link: 'https://www.stack-forge.eu',
 		name: 'StackForge',
 		sponsoring: 'T-Shirts'
-	},
-	{
-		image: seorank,
-		link: 'https://seorank.tech',
-		name: 'SEORank.tech',
-		sponsoring: 'various'
 	},
 	{
 		image: inovex,
