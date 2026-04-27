@@ -19,21 +19,21 @@
 			</p>
 		</div>
 
-		<div class="flex items-center gap-3">
+		<div class="flex flex-wrap items-center gap-2 sm:gap-3">
 			<span
-				class="rounded-full bg-primary-700/20 px-4 py-1.5 text-sm font-semibold text-primary-500"
+				class="rounded-full bg-primary-700/20 px-3 py-1 text-xs font-semibold text-primary-500 sm:px-4 sm:py-1.5 sm:text-sm"
 			>
 				Beginners
 			</span>
-			<span class="text-sm text-white/40">&bull;</span>
+			<span class="text-xs text-white/40 sm:text-sm">&bull;</span>
 			<span
-				class="rounded-full bg-primary-700/20 px-4 py-1.5 text-sm font-semibold text-primary-500"
+				class="rounded-full bg-primary-700/20 px-3 py-1 text-xs font-semibold text-primary-500 sm:px-4 sm:py-1.5 sm:text-sm"
 			>
 				Intermediate
 			</span>
-			<span class="text-sm text-white/40">&bull;</span>
+			<span class="text-xs text-white/40 sm:text-sm">&bull;</span>
 			<span
-				class="rounded-full bg-primary-700/20 px-4 py-1.5 text-sm font-semibold text-primary-500"
+				class="rounded-full bg-primary-700/20 px-3 py-1 text-xs font-semibold text-primary-500 sm:px-4 sm:py-1.5 sm:text-sm"
 			>
 				Experts
 			</span>
