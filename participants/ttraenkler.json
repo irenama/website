@@ -1,11 +1,8 @@
 {
-	// your real name (required by location host)
 	"realName": {
 		"givenName": "Thomas",
 		"familyName": "Tränkler",
-		// if you prefer to have your family name shown first (optional)
 		"placeFamilyNameFirst": false,
-		// if you do not want to show your family name on the participant list (optional)
 		"hideFamilyNameOnWebsite": false
 	},
 	"githubAccountName": "ttraenkler",
