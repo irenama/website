@@ -1,16 +1,29 @@
 {
+	// your real name (required by location host)
 	"realName": {
 		"givenName": "Thomas",
-		"familyName": "Tränkler"
+		"familyName": "Tränkler",
+		// if you prefer to have your family name shown first (optional)
+		"placeFamilyNameFirst": false,
+		// if you do not want to show your family name on the participant list (optional)
+		"hideFamilyNameOnWebsite": false
 	},
 	"githubAccountName": "ttraenkler",
-	"company": "Loopdive GmbH",
+	"company": "Loopdive",
 	"when": {
 		"friday": true,
 		"saturday": true
 	},
 	"iCanTakeNotesDuringSessions": false,
 	"tags": ["TypeScript", "WebAssembly", "JavaScript", "Web Components", "AI"],
+	"vegan": false,
+	"vegetarian": false,
+	"allergies": [],
 	"whatIsMyConnectionToJavascript": "I build JavaScript and TypeScript tooling, web components and WebAssembly-related projects at Loopdive.",
-	"whatCanIContribute": "I can share experiences from building JS/TS-to-WebAssembly tooling and web component based applications."
+	"whatCanIContribute": "I can share experiences from building JS/TS-to-WebAssembly tooling and web component based applications.",
+	"tShirtSize": "M",
+	"mastodon": "https://mastodon.online/@ttraenkler",
+	"linkedin": "https://www.linkedin.com/in/traenkler/",
+	"X": "ttraenkler",
+	"website": "https://loopdive.com"
 }
