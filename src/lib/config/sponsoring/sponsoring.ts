@@ -5,6 +5,7 @@ import inovex from './logos/inovex-logo.png';
 import scalable from './logos/scalable.svg';
 import composeUs from './logos/compose-us-white.svg';
 import inspiredconsulting from './logos/inspired-consulting.svg';
+import peerigon from './logos/peerigon_white.svg';
 import pastely from './logos/pastely.svg';
 import type { Sponsor } from './types';
 import { normalizeCompanyKey } from '$lib/participants/normalize-company';
@@ -63,6 +64,12 @@ export const sponsors: Sponsor[] = [
 		link: 'https://alm.sh',
 		name: 'alm engineering',
 		sponsoring: '500 €'
+	},
+	{
+		image: peerigon,
+		link: 'https://peerigon.com',
+		name: 'peerigon',
+		sponsoring: 'Coffee / Barista'
 	}
 	// {
 	// 	image: codecentric,
@@ -112,12 +119,7 @@ export const sponsors: Sponsor[] = [
 	// 	name: 'Inspired Consulting',
 	// 	sponsoring: '300 €'
 	// },
-	// {
-	// 	image: peerigon,
-	// 	link: 'https://peerigon.com',
-	// 	name: 'peerigon',
-	// 	sponsoring: 'Coffee / Barista'
-	// },
+
 	// {
 	// 	image: saab,
 	// 	link: 'https://www.saab.com',
