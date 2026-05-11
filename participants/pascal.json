@@ -38,7 +38,7 @@
 	//            if you have gluten free diet, please make backup plans.
 	"allergies": [],
 	// tell us a few words how JavaScript affects you (required)
-	"whatIsMyConnectionToJavascript": "I somehow ended up doing infrastructure and backend development, yet JavaScript keeps reappearing anyway.”",
+	"whatIsMyConnectionToJavascript": "I somehow ended up doing infrastructure and backend development, yet JavaScript keeps reappearing anyway.",
 	// what can you contribute to the bar camp (required)
 	"whatCanIContribute": "Good conversations about backend, Kubernetes operators, JavaScript and excitement for learning how other people solve weird problems.",
 	// if you want a T-Shirt we need your size and variant preference (optional)
